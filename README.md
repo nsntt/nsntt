@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" src="https://cdn.discordapp.com/avatars/1155676447575384124/bc002ca55f8140b25d191d934a0cc92c.png?size=2048">
+<img width="200" height="200" align="left" src="[https://cdn.discordapp.com/avatars/1155676447575384124/bc002ca55f8140b25d191d934a0cc92c.png?size=2048](https://cdn.discordapp.com/avatars/1208883563391361036/4ca7fedccd218bac932f95a25cbdcf06.png?size=2048)">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nsntt&color=red)
 
